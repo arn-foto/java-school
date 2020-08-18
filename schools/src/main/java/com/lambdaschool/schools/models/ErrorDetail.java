@@ -14,7 +14,7 @@ public class ErrorDetail
 
     private List<ValidationError>errors = new ArrayList<>();
 
-    public String getTitle() 
+    public String getTitle()
     {
         return title;
     }
